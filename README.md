@@ -16,4 +16,4 @@ MicroserviceTemplate - шаблонный проект для создания R
 Проект для создания файла расширения .vsix
 После создания шаблона проекта в предыдущем пункте необходимо zip архив подложить в папку ProjectTemplates.
 Изменить версию сборки в файле source.extension.vsixmanifest и сбилдить проект.
-После билда в папку проекта VSIXContent будет скопирован файл расширения Vocord.ServiceTemplateVSIX.vsix
+После билда в папку проекта VSIXContent будет скопирован файл расширения MicroserviceTemplateVSIX.vsix
