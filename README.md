@@ -1,4 +1,4 @@
-# WebApiNet6Template
+# WebApiNetCoreTemplate (.Net 6)
 
 MicroserviceTemplate - шаблонный проект для создания REST API сервиса с уже преднастроенной структурой,
 включая логирование, DI, AutoMapper, Exception MiddleWare, RequestFiltering и т.д.
